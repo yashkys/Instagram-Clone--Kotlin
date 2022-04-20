@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/yash/AndroidStudioProjects/InstagramCloneKotlin/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/yash/AndroidStudioProjects/InstagramCloneKotlin/app/src/main/res/drawable/button_black_background.xml" value="0.1645" />
+        <entry key="..\:/Users/yash/AndroidStudioProjects/InstagramCloneKotlin/app/src/main/res/drawable/buttons_background.xml" value="0.1645" />
+        <entry key="..\:/Users/yash/AndroidStudioProjects/InstagramCloneKotlin/app/src/main/res/drawable/inputs_background.xml" value="0.1645" />
+        <entry key="..\:/Users/yash/AndroidStudioProjects/InstagramCloneKotlin/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/yash/AndroidStudioProjects/InstagramCloneKotlin/app/src/main/res/menu/bottom_nav_menu.xml" value="0.19166666666666668" />
       </map>
     </option>
   </component>
